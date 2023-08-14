@@ -12,7 +12,7 @@ public class Triangle  : IFigure
       throw new Exception("неверное количество аргументов");
     Array.Sort(args);
     
-    if(args[2]  <= 0 )
+    if(args[0]  <= 0 )
       throw new Exception("неверные аргументы");
     
     bigеstSide = args[2];
@@ -26,7 +26,7 @@ public class Triangle  : IFigure
 
   public double GetSquare()
   {
-    var halfPerimetr = bigеstSide + firstSmallSide + secondSmallSide;
+    var halfPerimetr = (bigеstSide + firstSmallSide + secondSmallSide)/2;
     return Math.Sqrt(halfPerimetr*(halfPerimetr-bigеstSide)*(halfPerimetr-firstSmallSide)*(halfPerimetr-secondSmallSide));
   }
 

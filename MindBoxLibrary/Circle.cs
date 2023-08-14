@@ -12,11 +12,12 @@ public class Circle : IFigure
 
         if (args[0] <= 0)
             throw new Exception("Переданно неверное значение");
+        Radius = args[0];
     }
 
     public double GetSquare()
     {
-
+        
         return Math.PI * Math.Pow(Radius, 2);
 
     }

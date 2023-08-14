@@ -1,0 +1,11 @@
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\bin\Debug\net7.0\MindBoxLibrary.deps.json
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\bin\Debug\net7.0\MindBoxLibrary.dll
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\bin\Debug\net7.0\MindBoxLibrary.pdb
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.AssemblyInfoInputs.cache
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.AssemblyInfo.cs
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.csproj.CoreCompileInputs.cache
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.dll
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\refint\MindBoxLibrary.dll
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.pdb
+C:\Users\petra\RiderProjects\MindBoxTest\MindBoxLibrary\obj\Debug\net7.0\ref\MindBoxLibrary.dll
