@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\petra\\RiderProjects\\MindBoxTest\\MindBoxTest\\MindBoxTest.csproj",
-      "projectName": "MindBoxTest",
-      "projectPath": "C:\\Users\\petra\\RiderProjects\\MindBoxTest\\MindBoxTest\\MindBoxTest.csproj",
+      "projectUniqueName": "C:\\Users\\petra\\RiderProjects\\MindBoxTest\\MindBoxTask\\MindBoxTask.csproj",
+      "projectName": "MindBoxTask",
+      "projectPath": "C:\\Users\\petra\\RiderProjects\\MindBoxTest\\MindBoxTask\\MindBoxTask.csproj",
       "packagesPath": "C:\\Users\\petra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\petra\\RiderProjects\\MindBoxTest\\MindBoxTest\\obj\\",
+      "outputPath": "C:\\Users\\petra\\RiderProjects\\MindBoxTest\\MindBoxTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\petra\\AppData\\Roaming\\NuGet\\NuGet.Config"

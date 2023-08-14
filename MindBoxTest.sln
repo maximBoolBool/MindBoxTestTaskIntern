@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTest", "MindBoxTest\MindBoxTest.csproj", "{B1FD47CD-B955-440E-91A3-D08FD1290B0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTask", "MindBoxTask\MindBoxTask.csproj", "{B1FD47CD-B955-440E-91A3-D08FD1290B0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxLibrary", "MindBoxLibrary\MindBoxLibrary.csproj", "{EBB37B0D-16B2-4232-B015-29C9111DB157}"
 EndProject
