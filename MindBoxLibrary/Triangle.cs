@@ -1,5 +1,4 @@
 ﻿namespace MindBoxLibrary;
-
 public class Triangle  : IFigure
 {
 
